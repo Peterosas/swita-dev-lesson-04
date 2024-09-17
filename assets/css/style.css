@@ -52,3 +52,13 @@ body {
     margin-bottom: 14px;
     width: 100%;
 }
+
+.forgot-pass {
+    margin-bottom: 250px;
+  }
+  
+  .forgot-pass a {
+    color: var(--primary-color);
+    text-decoration: none;
+    font-weight: 500;
+  }
