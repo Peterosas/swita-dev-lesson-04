@@ -56,7 +56,8 @@ body {
 }
 
 .forgot-pass {
-    margin-bottom: 250px;
+    /* margin-bottom: 250px; */
+    padding-bottom: 90px;
 }
   
 .forgot-pass a {
