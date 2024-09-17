@@ -46,7 +46,7 @@ body {
 .form-input:focus {
     outline: none;
     border: 1px solid var(--primary-color)!important;
-  }
+}
 
 .form-group {
     margin-bottom: 14px;
@@ -55,10 +55,16 @@ body {
 
 .forgot-pass {
     margin-bottom: 250px;
-  }
+}
   
-  .forgot-pass a {
+.forgot-pass a {
     color: var(--primary-color);
     text-decoration: none;
     font-weight: 500;
-  }
+}
+
+span {
+    color: var(--primary-color);
+    cursor: pointer;
+}
+
